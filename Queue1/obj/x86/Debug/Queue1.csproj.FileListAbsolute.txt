@@ -1,0 +1,112 @@
+C:\Documents and Settings\student.ZIV\Desktop\Queue1\Queue1\bin\Debug\Queue1.exe
+C:\Documents and Settings\student.ZIV\Desktop\Queue1\Queue1\bin\Debug\Queue1.pdb
+C:\Documents and Settings\student.ZIV\Desktop\Queue1\Queue1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student.ZIV\Desktop\Queue1\Queue1\obj\x86\Debug\Queue1.exe
+C:\Documents and Settings\student.ZIV\Desktop\Queue1\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Queue1\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Queue1\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Queue1\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Queue1\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Queue1\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\listackQ\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\listackQ\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\listackQ\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\listackQ\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\listackQ\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+N:\Eetsuv\תשעז\תכנית חדשה\listackQ\Queue1\obj\x86\Debug\Queue1.exe
+N:\Eetsuv\תשעז\תכנית חדשה\listackQ\Queue1\obj\x86\Debug\Queue1.pdb
+N:\Eetsuv\תשעז\תכנית חדשה\q4 תשע\Queue1\obj\x86\Debug\Queue1.exe
+N:\Eetsuv\תשעז\תכנית חדשה\q4 תשע\Queue1\obj\x86\Debug\Queue1.pdb
+N:\Eetsuv\תשעז\תכנית חדשה\q4 תשע\Queue1\bin\Debug\Queue1.exe
+N:\Eetsuv\תשעז\תכנית חדשה\q4 תשע\Queue1\bin\Debug\Queue1.pdb
+N:\Eetsuv\תשעז\תכנית חדשה\q4 תשע\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\q4 תשע\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\q4 תשע\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\q4 תשע\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\q4 תשע\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\q4 תשע\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\PreInPostOrder\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\PreInPostOrder\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\PreInPostOrder\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\PreInPostOrder\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\PreInPostOrder\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\BuildSearchTree\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\BuildSearchTree\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\BuildSearchTree\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\BuildSearchTree\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\BuildSearchTree\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\ShowCity\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\ShowCity\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\ShowCity\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\ShowCity\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\ShowCity\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+N:\Eetsuv\תשעז\תכנית חדשה\ShowCity\Queue1\obj\x86\Debug\Queue1.exe
+N:\Eetsuv\תשעז\תכנית חדשה\ShowCity\Queue1\obj\x86\Debug\Queue1.pdb
+N:\Eetsuv\תשעז\תכנית חדשה\ShowCity\Queue1\bin\Debug\Queue1.exe
+N:\Eetsuv\תשעז\תכנית חדשה\ShowCity\Queue1\bin\Debug\Queue1.pdb
+N:\Eetsuv\תשעז\תכנית חדשה\ShowCity\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+N:\תשעח\תשעח יב\קבוצה רגילה\ShowCity\Queue1\obj\x86\Debug\Queue1.exe
+N:\תשעח\תשעח יב\קבוצה רגילה\ShowCity\Queue1\obj\x86\Debug\Queue1.pdb
+N:\תשעח\תשעח יב\קבוצה רגילה\mimshakim\Queue1\obj\x86\Debug\Queue1.exe
+N:\תשעח\תשעח יב\קבוצה רגילה\mimshakim\Queue1\obj\x86\Debug\Queue1.pdb
+N:\תשעח\תשעח יא\mimshakim\Queue1\obj\x86\Debug\Queue1.exe
+N:\תשעח\תשעח יא\mimshakim\Queue1\obj\x86\Debug\Queue1.pdb
+N:\תשעט\כיתה יא\mimshakim\Queue1\obj\x86\Debug\Queue1.exe
+N:\תשעט\כיתה יא\mimshakim\Queue1\obj\x86\Debug\Queue1.pdb
+N:\תשעט\כיתה יא\mimshakim\Queue1\bin\Debug\Queue1.exe
+N:\תשעט\כיתה יא\mimshakim\Queue1\bin\Debug\Queue1.pdb
+N:\תשעט\כיתה יא\mimshakim\Queue1\obj\x86\Debug\Queue1.csprojResolveAssemblyReference.cache
+C:\Users\meirp\Desktop\mimshakim\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\mimshakim\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\mimshakim\Queue1\obj\x86\Debug\Queue1.csprojAssemblyReference.cache
+C:\Users\meirp\Desktop\mimshakim\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\meirp\Desktop\mimshakim\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\mimshakim\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Tree1\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Tree1\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Tree1\Queue1\obj\x86\Debug\Queue1.csprojAssemblyReference.cache
+C:\Users\meirp\Desktop\Tree1\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\meirp\Desktop\Tree1\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Tree1\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Tree2\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Tree2\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\Tree2\Queue1\obj\x86\Debug\Queue1.csprojAssemblyReference.cache
+C:\Users\meirp\Desktop\Tree2\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\meirp\Desktop\Tree2\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\Tree2\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\obj\x86\Debug\Queue1.csprojAssemblyReference.cache
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\‏‏Tree2 - עותק\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\bin\Debug\Queue1.exe
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\bin\Debug\Queue1.pdb
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csprojAssemblyReference.cache
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\meirp\Desktop\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\bin\Debug\Queue1.exe
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\bin\Debug\Queue1.pdb
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\user\Desktop\עיצוב\‏‏‏‏Tree2 - עותק - עותק\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\bin\Debug\Queue1.exe
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\bin\Debug\Queue1.pdb
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\user\Desktop\‏‏‏‏‏‏Tree2 - עותק - עותק - עותק\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\user\Desktop\NodeOfStack\Queue1\bin\Debug\Queue1.exe
+C:\Users\user\Desktop\NodeOfStack\Queue1\bin\Debug\Queue1.pdb
+C:\Users\user\Desktop\NodeOfStack\Queue1\obj\x86\Debug\Queue1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NodeOfStack\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NodeOfStack\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\user\Desktop\NodeOfStack\Queue1\obj\x86\Debug\Queue1.pdb
+C:\Users\Arnon\source\repos\Queue1\Queue1\bin\Debug\Queue1.exe
+C:\Users\Arnon\source\repos\Queue1\Queue1\bin\Debug\Queue1.pdb
+C:\Users\Arnon\source\repos\Queue1\Queue1\obj\x86\Debug\Queue1.csproj.AssemblyReference.cache
+C:\Users\Arnon\source\repos\Queue1\Queue1\obj\x86\Debug\Queue1.csproj.CoreCompileInputs.cache
+C:\Users\Arnon\source\repos\Queue1\Queue1\obj\x86\Debug\Queue1.exe
+C:\Users\Arnon\source\repos\Queue1\Queue1\obj\x86\Debug\Queue1.pdb
